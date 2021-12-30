@@ -1,5 +1,7 @@
 # MyFirstApp
 
+This is the code from Max Angular course [section 7, Directives Deep Dive](https://www.udemy.com/course/the-complete-guide-to-angular-2/learn/lecture/6656164#notes)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.0.
 
 ## Development server
