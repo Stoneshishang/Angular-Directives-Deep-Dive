@@ -1,4 +1,4 @@
-# MyFirstApp
+# Angular Directives Deep Dive
 
 This is the code from Max Angular course [section 7, Directives Deep Dive](https://www.udemy.com/course/the-complete-guide-to-angular-2/learn/lecture/6656164#notes)
 
